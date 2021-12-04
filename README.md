@@ -24,10 +24,4 @@
 <img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
   
-#  Profil Bilgileri
 
-
-
-![GitHub Bilgilerim](https://github-readme-stats.vercel.app/api?username=reyxjs&show_icons=true)  
-
-![Ziyaretçi Sayısı!](https://gpvc.arturio.dev/reyxjs) 
