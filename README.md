@@ -1,8 +1,8 @@
-**Merhaba!**
-
-*Ben ralexia!*
-
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Merhaba+!;Ben+ralexia.&center=false&size=30">
+  </a>
+</h1>
 
 *Ücretli işlemler için bana ulaşmak isterseniz aşağıdaki bağlantıları kullanabilirsiniz!*
 
