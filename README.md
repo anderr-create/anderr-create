@@ -1,21 +1,9 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?color=%23F70000&lines=Merhaba+!;Ben+ralexia.&center=false&size=30">
-  </a>
-</h1>
-
-*Ücretli işlemler için bana ulaşmak isterseniz aşağıdaki bağlantıları kullanabilirsiniz!*
-
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)](https://www.instagram.com/kaanodunkiran) 
-<div>
-
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/911622607906938970
-                            )](https://discord.com/users/911622607906938970)
+                            )](https://discord.com/users/834407731002605608)
 
 
 
-# Kullandığım teknojiler
+# I USE
 
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
