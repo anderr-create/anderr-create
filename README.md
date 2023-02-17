@@ -3,4 +3,4 @@
 
 # Techs.
 
-Lua.
+HTML and CSS.
